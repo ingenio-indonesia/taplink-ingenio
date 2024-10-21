@@ -37,3 +37,6 @@ Make meaningful contributions to a growing project.
 Be part of the global Hacktoberfest celebration.
 Learn, collaborate, and connect with developers from around the world.
 Let’s build something great together this Hacktoberfest! Happy coding, and thank you for being part of the Taplink Ingenio Project!
+
+### Contributors
+- [@rasvanjaya21](https://github.com/ingenio-indonesia/taplink-ingenio/pull/2) - title component
