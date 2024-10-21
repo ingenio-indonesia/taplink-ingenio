@@ -5,6 +5,18 @@ Hello awesome contributors!
 
 We're excited to have you join us in making the Taplink Ingenio Project even better this Hacktoberfest! Whether you're a seasoned open-source pro or new to the world of coding, your contributions are incredibly valuable and appreciated.
 
+### Overview
+The goal of this challenge is to take a Figma design and translate it into fully functional, responsive components using Next.js. This is a great opportunity to work with modern web technologies while contributing to an open-source project.
+
+### Objective
+Participants will be responsible for: converting sections from a Figma design into reusable Next.js components, Esuring that the components are responsive and follow the best CSS/SCSS practices, Maintaining consistency with the design, paying close attention to details like padding, margin, fonts, colors, and other UI/UX elements.
+
+### Prerequisites
+To participate in this challenge, you should have: familiarity with Next.js (React framework), knowledge of HTML, CSS/SCSS, and basic JavaScript, some experience with Figma or the ability to interpret design files.
+
+### Steps to Participate
+Get Started with the [Figma Design](https://www.figma.com/design/n8z3TSyGk9qiGt8Rr6wDCh/fasiningenio-nextjs-frontend-taplink?node-id=0-1&t=y43DKBlJuLlwsxwR-1), continue with this next section.
+
 ### How to Get Involved?
 
 #### Find an Issue:
