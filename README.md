@@ -40,3 +40,4 @@ Let’s build something great together this Hacktoberfest! Happy coding, and tha
 
 ### Contributors
 - [@rasvanjaya21](https://github.com/ingenio-indonesia/taplink-ingenio/pull/2) - title component
+- [@jidan24](https://github.com/ingenio-indonesia/taplink-ingenio/pull/4) - sub-title component
